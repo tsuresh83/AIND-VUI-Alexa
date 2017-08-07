@@ -2,3 +2,29 @@ GetNewFactIntent a fact
 GetNewFactIntent tell me a fact
 GetNewFactIntent give me a fact
 GetNewFactIntent give me something
+GetNewFactIntent surprise me
+GetNewFactIntent tell me an interesting fact
+GetNewFactIntent surprise me with an interesting fact
+GetNewFactIntent give me a random fact
+GetNewFactIntent tell me a random fact
+GetNewFactIntent surprise me with a random fact
+GetNewFactIntent give me an interesting fact
+GetNewFactIntent give me a random fact
+GetNewFactIntent give me something interesting
+GetNewFactIntent give me an anything fact
+GetNewFactIntent surprise me with a mindblowing fact
+GetNewYearFactIntent a fact from {FACT_YEAR}
+GetNewYearFactIntent tell me a fact from {FACT_YEAR}
+GetNewYearFactIntent give me a fact from {FACT_YEAR}
+GetNewYearFactIntent give me something from {FACT_YEAR}
+GetNewYearFactIntent what was interesting about the year {FACT_YEAR}
+GetNewYearFactIntent tell me something interesting from the year {FACT_YEAR}
+GetNewYearFactIntent surprise me with a fact from {FACT_YEAR}
+GetNewYearFactIntent what was amazing about {FACT_YEAR}
+GetNewYearFactIntent surprise me with something interesting about the year {FACT_YEAR}
+GetNewYearFactIntent tell something interesting about the year {FACT_YEAR}
+GetNewYearFactIntent give me an interesting fact from {FACT_YEAR}
+GetNewYearFactIntent tell me a random fact from the year {FACT_YEAR}
+GetNewYearFactIntent give me something interesting from {FACT_YEAR}
+GetNewYearFactIntent tell me anything interesting from {FACT_YEAR}
+GetNewYearFactIntent surprise me with something from {FACT_YEAR}
